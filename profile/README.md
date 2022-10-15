@@ -1,6 +1,5 @@
-# KronBOT
-
-### Echipa de robotica a Colegiului National de Informatica "Grigore Moisil" Brasov
+CNI "Grigore Moisil" Brașov's robotics team. 
+We don't predict the future, we invent it! ❤️
 
 #### We believe in
 
